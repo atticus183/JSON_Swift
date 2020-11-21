@@ -30,9 +30,9 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
-## Playgrounds - I want to include the playgrounds
-# timeline.xctimeline
-# playground.xcworkspace
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
 
 # Swift Package Manager
 #
